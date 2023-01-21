@@ -7,3 +7,4 @@ Data Science Concepts
 5. Electronic Sales data analysis using Pandas
 6. Merge,Join and Concatenation in pandas
 7. House Price Data Analysis
+8. Plots using Seaborn
