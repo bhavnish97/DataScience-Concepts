@@ -8,3 +8,4 @@ Data Science Concepts
 6. Merge,Join and Concatenation in pandas
 7. House Price Data Analysis
 8. Plots using Seaborn
+9. Linear Regression from scratch
